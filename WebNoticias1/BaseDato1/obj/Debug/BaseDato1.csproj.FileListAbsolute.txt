@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\bin\Debug\BaseDato1.exe.config
+C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\bin\Debug\BaseDato1.exe
+C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\bin\Debug\BaseDato1.pdb
+C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\obj\Debug\BaseDato1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\obj\Debug\BaseDato1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\obj\Debug\BaseDato1.exe
+C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\obj\Debug\BaseDato1.pdb
+C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\obj\Debug\BaseDato1.csproj.GenerateResource.Cache
+C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\obj\Debug\BaseDato1.Migrations.Second.resources
+C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\obj\Debug\BaseDato1.Migrations.third.resources
+C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\obj\Debug\BaseDato1.Migrations.fourth.resources
+C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\obj\Debug\BaseDato1.Migrations.five.resources
