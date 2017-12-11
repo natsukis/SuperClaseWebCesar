@@ -40,8 +40,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Operaciones\ConvertUser.cs" />
+    <Compile Include="CrudUsuario.cs" />
     <Compile Include="Model\NewsDto.cs" />
     <Compile Include="Model\UserDTO.cs" />
+    <Compile Include="Operaciones\GeneraId.cs" />
+    <Compile Include="Operaciones\UserID.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

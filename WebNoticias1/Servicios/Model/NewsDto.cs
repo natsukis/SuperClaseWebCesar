@@ -14,16 +14,16 @@ namespace Servicios.Model
 
         public string Description { get; set; }
 
-        public User CreatedUser { get; set; }
+        public UserDTO CreatedUser { get; set; }
 
-        public User UpdatedUser { get; set; }
+        public UserDTO UpdatedUser { get; set; }
 
         public DateTime CreatedDate { get; set; }
         public DateTime UpdateDate { get; set; }
 
         public int Id { get; set; }
 
-        public virtual User Usuario { get; set; }
+        public virtual UserDTO Usuario { get; set; }
 
 
     }

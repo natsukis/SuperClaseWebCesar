@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Servicios.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -21,11 +22,9 @@ namespace WebSystem.Controllers
         }
 
         [HttpPost]
-        public ActionResult Creacion()
+        public ActionResult Creacion(UserDTO user)
         {
             return View();
         }
-
-
     }
 }

@@ -15,7 +15,7 @@ namespace Servicios.Model
         public string Password { get; set; }
 
         public int Id { get; set; }
-        public virtual ICollection<News> New { get; set; }
+        public virtual ICollection<NewsDto> New { get; set; }
         
     }
 }

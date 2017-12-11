@@ -14,3 +14,13 @@ C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\obj\Debug\BaseDato1.Migrati
 C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\obj\Debug\BaseDato1.Migrations.third.resources
 C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\obj\Debug\BaseDato1.Migrations.fourth.resources
 C:\Users\Usuario\source\repos\WebNoticias1\BaseDato1\obj\Debug\BaseDato1.Migrations.five.resources
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\BaseDato1\obj\Debug\BaseDato1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\BaseDato1\obj\Debug\BaseDato1.exe
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\BaseDato1\obj\Debug\BaseDato1.pdb
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\BaseDato1\bin\Debug\BaseDato1.exe.config
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\BaseDato1\bin\Debug\BaseDato1.exe
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\BaseDato1\bin\Debug\BaseDato1.pdb
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\BaseDato1\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\BaseDato1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\BaseDato1\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\BaseDato1\bin\Debug\EntityFramework.SqlServer.xml

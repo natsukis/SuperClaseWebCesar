@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\Servicios\obj\Debug\Servicios.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\Servicios\bin\Debug\Servicios.dll
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\Servicios\bin\Debug\Servicios.pdb
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\Servicios\bin\Debug\BaseDato1.exe
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\Servicios\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\Servicios\bin\Debug\BaseDato1.pdb
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\Servicios\bin\Debug\BaseDato1.exe.config
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\Servicios\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\Servicios\obj\Debug\Servicios.dll
+C:\Users\Usuario\Documents\SuperClaseWebCesar\WebNoticias1\Servicios\obj\Debug\Servicios.pdb

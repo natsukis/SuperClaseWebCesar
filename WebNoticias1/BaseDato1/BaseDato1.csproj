@@ -49,22 +49,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Migrations\201712071520555_Second.cs" />
-    <Compile Include="Migrations\201712071520555_Second.Designer.cs">
-      <DependentUpon>201712071520555_Second.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201712071534319_third.cs" />
-    <Compile Include="Migrations\201712071534319_third.Designer.cs">
-      <DependentUpon>201712071534319_third.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201712071544043_fourth.cs" />
-    <Compile Include="Migrations\201712071544043_fourth.Designer.cs">
-      <DependentUpon>201712071544043_fourth.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201712071547291_five.cs" />
-    <Compile Include="Migrations\201712071547291_five.Designer.cs">
-      <DependentUpon>201712071547291_five.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -76,20 +60,6 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201712071520555_Second.resx">
-      <DependentUpon>201712071520555_Second.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201712071534319_third.resx">
-      <DependentUpon>201712071534319_third.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201712071544043_fourth.resx">
-      <DependentUpon>201712071544043_fourth.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201712071547291_five.resx">
-      <DependentUpon>201712071547291_five.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
