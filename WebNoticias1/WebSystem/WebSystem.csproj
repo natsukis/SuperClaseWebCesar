@@ -140,6 +140,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\CrudUser\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Servicios\Servicios.csproj">
